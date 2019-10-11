@@ -1,3 +1,4 @@
 hello world 
 deeplearning Ai
 window skills
+new insert one sql
