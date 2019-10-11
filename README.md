@@ -1,5 +1,5 @@
 # shiyanlou
 
-git course test\n
+git course test
 
 git is easy ,we shoule practice everyday
